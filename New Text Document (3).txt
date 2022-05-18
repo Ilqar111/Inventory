@@ -5,3 +5,4 @@ create table customertbl(CusId tinyint ,CusName varchar(50),CusPhone bigint);
 create table categorytbl(CatId tinyint ,CatName varchar(50));
 root
 1234
+database name - inventory
