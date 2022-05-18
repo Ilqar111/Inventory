@@ -1,0 +1,7 @@
+create table producttbl(ProdId tinyint ,ProdName varchar(50),ProdQty int ,ProdDesc VARCHAR(10),ProdCat VARCHAR(40));
+create table usertbl(Uname varchar(20),Upassword VARCHAR(20),Uphone VARCHAR(20));
+create table ordertbl(OrderId bigint ,CusName varchar(50),OrderDate varchar(40) ,Amount int);
+create table customertbl(CusId tinyint ,CusName varchar(50),CusPhone bigint);
+create table categorytbl(CatId tinyint ,CatName varchar(50));
+root
+1234
